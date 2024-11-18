@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///Users/himanshusingh/Downloads/client/src/app/user/layout.js"],"sourcesContent":["import Navbar from \"@/components/Navbar\";\n\nexport default function Layout({ children }) {\n  return (\n    <>\n      <Navbar />\n      <main>{children}</main>\n    </>\n  );\n}\n"],"names":[],"mappings":";;;;AAAA;;;AAEe,SAAS,OAAO,EAAE,QAAQ,EAAE;IACzC,qBACE;;0BACE,8OAAC,4HAAA,CAAA,UAAM;;;;;0BACP,8OAAC;0BAAM;;;;;;;;AAGb"}},
+    {"offset": {"line": 32, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}
